@@ -33,5 +33,3 @@ speed > 60 ? true : false
 elsif speed < 40
   false
 end
-end
-end
